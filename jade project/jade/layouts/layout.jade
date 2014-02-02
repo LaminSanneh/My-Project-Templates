@@ -1,0 +1,16 @@
+!!! 5
+html
+    block vars
+    head
+        meta(charset='utf-8')
+        title Zero Blink -
+            = title
+        meta(name='viewport', content='width=device-width, initial-scale=1.0')
+        link(rel='stylesheet', href='css/main.css')
+    body(class=bodyClass)
+        .page-wrap
+            include ../includes/header.jade
+            div.main-content
+                block main-content
+            footer
+                include ../includes/footer.jade

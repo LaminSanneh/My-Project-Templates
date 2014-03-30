@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-util": "~2.2.14",
+    "gulp-sass": "~0.7.0",
+    "gulp-compass": "~1.1.2",
+    "gulp-watch": "~0.5.0",
+    "gulp-declare": "~0.1.0",
+    "gulp-uglify": "~0.2.1",
+    "gulp-concat": "~2.1.7",
+    "gulp-ember-handlebars": "~0.5.1"
+  },
+  "dependencies": {
+    "gulp-livereload": "~1.1.1"
+  }
+}

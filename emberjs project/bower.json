@@ -1,0 +1,32 @@
+{
+  "name": "EMberJs Project",
+  "version": "0.0.1",
+  "homepage": "https://github.com/LaminSanneh/My-Project-Templates",
+  "authors": [
+    "Lamin Sanneh <lamin.evra@gmail.com>"
+  ],
+  "description": "A starter project structure for a new emberjs app",
+  "main": "js/main.js",
+  "keywords": [
+    "emberjs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handlebars": "~1.1.2",
+    "jquery": "~1.9.1",
+    "ember": "~1.5.0",
+    "ember-data": "~1.0.0-beta.7",
+    "moment": "~2.5.1",
+    "moment-timezone": "~0.0.3",
+    "modernizr": "~2.7.2"
+  }
+}
